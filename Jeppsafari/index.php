@@ -19,7 +19,7 @@ $kobling = mysqli_connect('localhost', 'root', '', 'jeppsafari')
         </p>
     </div>
 
-
+<!--tst-->
     <div class="opacity">
         <div class="container">
 
